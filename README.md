@@ -1,4 +1,6 @@
-# vue-crash-2021
+# vue-task-tracker
+
+an app created with Vue.js version 3
 
 ## Project setup
 ```
@@ -8,6 +10,11 @@ yarn install
 ### Compiles and hot-reloads for development
 ```
 yarn serve
+```
+
+### serve json data using json-server
+```
+yarn json-serve
 ```
 
 ### Compiles and minifies for production
